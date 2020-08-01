@@ -1,4 +1,4 @@
-#The Odin Project Excercises
+# The Odin Project Excercises
 
 This respository contains all the Odin Project practice / recommended exercises.
 
