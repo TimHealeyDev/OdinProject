@@ -5,7 +5,7 @@ This respository contains all the Odin Project practice / recommended exercises.
 
 ###### HTML & CSS Basics
 Within the *freeCodeCamp* folder are 5 Web Design Projects:
-- [x] A Tribute Page __~ in progress__
+- [x] A Tribute Page
 - [] A Survey Form
 - [] A Product Landing Page
 - [] A Technical Documentation Page, and
